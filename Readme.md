@@ -43,8 +43,8 @@ Application → Filebeat → Logstash → Elasticsearch → Kibana
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone <your-repo-link>
-cd <project-folder>
+git clone https://github.com/Dhanashree-jadhav/elk-logging-project.git
+cd elk-logging-project
 ```
 
 ### 2️⃣ Start ELK Stack
